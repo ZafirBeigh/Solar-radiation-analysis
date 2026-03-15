@@ -101,7 +101,4 @@ The exploratory analysis revealed several interesting patterns:
 
 **Zafir Ashraf Beigh**
 
-Mechanical Engineering Graduate
-Aspiring Data Scientist
 
-Interested in applying data analysis and computational methods to real-world scientific and engineering problems.
